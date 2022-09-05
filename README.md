@@ -9,7 +9,6 @@ Te convido a explorar os repositórios e analisar comigo diversos problemas de n
 Ficou com alguma dúvida? Achou algum ponto de melhoria? Pensou em algo que não explorei? Entra em contato comigo e vamos evoluir junt@s 😉
 
 ### Onde você pode me encontrar
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) patriciaduran](https://www.linkedin.com/in/patriciaduran/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div>
   <a href="https://www.linkedin.com/in/patriciaduran" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:patriciaod.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
