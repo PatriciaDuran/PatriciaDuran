@@ -2,7 +2,7 @@
 
 Bem vind@s ao meu perfil 
 
-Por aqui você encontrar projetos na área de tecnologia / ciencia de dados
+Por aqui você encontra projetos na área de tecnologia / ciencia de dados
 
 Te convido a explorar os repositórios e analisar comigo diversos problemas de negócio 
 
