@@ -10,4 +10,4 @@ Ficou com alguma dúvida? Achou algum ponto de melhoria? Pensou em algo que não
 
 ### Onde você pode me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/patricia-duran/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:patriciaod.sp@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:patriciaduran.sp@gmail.com)
